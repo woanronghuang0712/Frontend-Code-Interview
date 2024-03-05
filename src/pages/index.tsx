@@ -26,13 +26,17 @@ export default function Home() {
               **/api/**
             </span>
           </li>
-          <li className="mt-1">style with tailwindcss and css file.</li>
+          <li className="mt-1">Style with tailwindcss and css file.</li>
           <li className="mt-1">
-            use
+            Use
             <span className="font-bold inline mx-1 py-0.5 px-1.5 border border-amber-400 bg-amber-50 rounded">
               axios
             </span>
             to fetch data
+          </li>
+          <li className="mt-1">
+            Implement Responsive Web Design (RWD) with a breakpoint at 768px (md
+            in tailwindcss default breakpoints)
           </li>
           <li className="mt-1">
             <p>
