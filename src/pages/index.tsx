@@ -95,6 +95,10 @@ export default function Home() {
               <strong className="mx-1">'Find the cheese'.</strong>
             </li>
             <li className="mt-1">
+              Add description, "Click 'Start' to see how the mouse find the
+              cheese by using DFS!", below page title
+            </li>
+            <li className="mt-1">
               The color of the walls is
               <span className="font-bold inline mx-1 py-0.5 px-1.5 border border-amber-400 bg-amber-50 rounded">
                 green-800
@@ -131,6 +135,17 @@ export default function Home() {
               <span className="font-bold inline mx-1 py-0.5 px-1.5 border border-amber-400 bg-amber-50 rounded">
                 amber-200
               </span>
+            </li>
+            <li className="mt-1">
+              The button has a background color of amber-500, and a hover
+              background color of amber-400.
+            </li>
+            <li className="mt-1">
+              <span className="font-bold inline mx-1 py-0.5 px-1.5 border border-amber-400 bg-amber-50 rounded">
+                /api/maze
+              </span>
+              simulates an endpoint on another server, so you need to use axios
+              to fetch the data.
             </li>
           </ul>
         </div>
