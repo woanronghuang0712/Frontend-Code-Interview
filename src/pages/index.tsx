@@ -83,7 +83,16 @@ export default function Home() {
             reset the map to its initial state, and the reset button will be
             replaced by the start button again.
           </p>
-          <p className="mt-4">Here is an example video:</p>
+          <p className="mt-4">
+            <a
+              className="underline font-bold text-amber-500 cursor-pointer hover:text-amber-400 mr-1"
+              href="https://youtube.com/shorts/uA744cMSNK8?si=U80OGTvH3rGV17zu"
+              target="_blank"
+            >
+              Click
+            </a>
+            to watch a demonstration of the expected behavior.
+          </p>
           <p className="mt-4">Note that:</p>
           <ul className="list-decimal pl-6">
             <li className="mt-1">
