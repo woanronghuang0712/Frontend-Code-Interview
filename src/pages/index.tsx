@@ -74,7 +74,7 @@ export default function Home() {
             endpoint to fetch the maze map array and display all the maps along
             with their respective start buttons on the screen. When the user
             clicks the start button, the mouse on that map will begin to solve
-            the maze using Depth-First Search (DFS), with each step taking 300
+            the maze using Depth-First Search (DFS), with each step taking 100
             ms.
           </p>
           <p className="mt-4">
