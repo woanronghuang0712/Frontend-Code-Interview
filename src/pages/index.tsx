@@ -42,11 +42,11 @@ export default function Home() {
             <p>
               Submit the URL of your answer repository by
               <strong className="mx-1">
-                23:59 on the third day after receiving the questions,
+                23:59 on the 5th day after receiving the questions,
               </strong>
               and cease answering (pushing commits). For example: if you receive
               the questions on Mar 1st, you should submit the answer by 23:59 on
-              Mar 3rd.
+              Mar 5th.
             </p>
           </li>
         </ul>
