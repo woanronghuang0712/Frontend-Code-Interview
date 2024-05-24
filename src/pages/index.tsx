@@ -168,7 +168,7 @@ export default function Home() {
             <li className="mt-1">
               A header displaying
               <strong className="mx-1">'Jedi Software'</strong> that collapses
-              when scrolling up and reappears when scrolling stops.
+              when scrolling and reappears when scrolling stops.
             </li>
             <li className="mt-1">
               A collapsible menu offering redirection to the homepage and
